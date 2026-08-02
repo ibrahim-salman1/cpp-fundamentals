@@ -2,7 +2,7 @@
 
 A collection of beginner-level C++ programs developed while learning programming fundamentals and problem-solving.
 
-📂 *Projects* 
+📂 **Projects**
 
  **1. Programming Fundamentals**
 
