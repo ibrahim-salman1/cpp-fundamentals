@@ -4,7 +4,7 @@ A collection of beginner-level C++ programs developed while learning programming
 
 📂 *Projects* 
 
- *1. Programming Fundamentals*
+ **1. Programming Fundamentals**
 
 Basic programs covering core programming concepts.
 
@@ -13,7 +13,7 @@ Basic programs covering core programming concepts.
 - Greatest Number
 - Factorial
 
- *2. Mathematical Applications* 
+ **2. Mathematical Applications**
 
 Programs that apply C++ to common mathematical problems.
 
@@ -21,7 +21,7 @@ Programs that apply C++ to common mathematical problems.
 - Volume of Sphere
 - Payroll Calculator
 
- *3. Loops and Patterns* 
+ **3. Loops and Patterns**
 
 Programs focused on loops, repetition, and pattern generation.
 
@@ -30,7 +30,7 @@ Programs focused on loops, repetition, and pattern generation.
 - ASCII Table
 - Multiplication Table
 
- *4. Functions and Decision Making* 
+ **4. Functions and Decision Making** 
 
 Programs demonstrating functions, switch statements, and decision-making.
 
